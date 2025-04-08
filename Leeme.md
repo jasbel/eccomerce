@@ -91,3 +91,22 @@ Crear una plataforma de ecommerce que permita a pequeños productores vender dir
 - Tiempo medio de atención por WhatsApp.
 - Productos más vendidos.
 
+
+🗂️ Multirepo (o carpetas separadas manejadas individualmente)
+✅ Puedes manejar Astro (frontend) por separado y deployarlo fácil en Vercel.
+
+✅ El backend lo puedes alojar en Render con su propio repo o carpeta.
+
+✅ PostgreSQL en Neon va independiente.
+
+✅ Cloudflare para imágenes ni siquiera necesita integrarse directamente con tu repo.
+
+✅ Menor complejidad para MVP.
+
+## 🎨 Diseño UI
+
+El diseño de la interfaz se encuentra en Figma:  
+🔗 [Ver diseño en Figma](https://www.figma.com/file/XXXXXX/Ecommerce-MVP)
+
+Si necesitas exportarlo en .fig, puedes descargarlo desde el menú de Figma:  
+**Main Menu > File > Save local copy (.fig)**
